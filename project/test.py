@@ -4,7 +4,7 @@ import random
 import time
 
 sc=turtle.getscreen()
-asteroid_image= "C:\\Users\\Gwak\\Desktop\\수업\\파이썬\\asteroid.gif"
+asteroid_image= "C:\\Users\\Gwak\\Desktop\\classes\\python\\asteroid\\images\\asteroid.gif"
 sc.addshape(asteroid_image)
 
 ast1=turtle.Turtle()

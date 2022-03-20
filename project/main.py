@@ -1,3 +1,8 @@
-from place import create_place
+from place import asteroid_create
+from me import create_me
+from multiprocessing import Pool
 
-create_place()
+Pool(processes=2)
+asteroid_create()
+create_me()
+
