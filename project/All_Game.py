@@ -72,7 +72,7 @@ def Create_Place():
     for i in range(4):
         outline.fd(460)
         outline.rt(90)
-#행성 움직임
+#행성 움직임 커밋
 screen = turtle.getscreen()
 def Move_Asteroid():
     global score
